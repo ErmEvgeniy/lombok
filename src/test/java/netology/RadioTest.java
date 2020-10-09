@@ -88,7 +88,14 @@ class RadioTest {
         radio.prevStation();
         assertEquals(6, radio.getStationNumber());
     }
+// выставляем станцию с цифрового пульта
+    @Test
+    public void testInstallRadioStation () {
 
+        Radio radio2 = new Radio();
 
+        radio2.setStation(3);
+
+    }
 
 }
