@@ -22,6 +22,7 @@
     <list default="true" id="f2c19310-5ee7-4512-b9b3-30f0f68d25c7" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Menegjer Afishi/src/main/java/MovieItem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Menegjer Afishi/src/main/java/MovieManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../radioman/src/test/java/netology/RadioTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
@@ -30,7 +31,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/netology/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/netology/Radio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../target/classes/netology/Radio.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../target/test-classes/netology/RadioTest.class" beforeDir="false" />
@@ -106,5 +106,27 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="334" key="GridCell.Tab.0.bottom" timestamp="1603123186153">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="334" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603122700339" />
+    <state width="1398" height="334" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1603123186153" />
+    <state width="1398" height="334" key="GridCell.Tab.0.center" timestamp="1603123186151">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="334" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603122700338" />
+    <state width="1398" height="334" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1603123186151" />
+    <state width="1398" height="334" key="GridCell.Tab.0.left" timestamp="1603123186150">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="334" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603122700337" />
+    <state width="1398" height="334" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1603123186150" />
+    <state width="1398" height="334" key="GridCell.Tab.0.right" timestamp="1603123186152">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="334" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603122700338" />
+    <state width="1398" height="334" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1603123186152" />
   </component>
 </project>
